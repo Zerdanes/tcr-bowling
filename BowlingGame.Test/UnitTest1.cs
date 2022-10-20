@@ -8,6 +8,7 @@ namespace BowlingGame.Test
         [TestMethod]
         public void TestMethod1()
         {
+            var t = "";
         }
     }
 }
